@@ -53,9 +53,10 @@ nav:
     - Installation: getting-started/installation.md
     - Configuration: getting-started/configuration.md
   - Features:
-    - File Content: features/file-content.md
-    - Git Integration: features/git-integration.md
-    - Collaborative Editing: features/collaborative.md
+    - File-Based Content: features/file-based-content.md
+    - Export to Markdown: features/export.md
+    - Collaborative Editing: features/collaborative-editing.md
+    - Performance & Caching: features/performance.md
   - Guides:
     - Deployment: guides/deployment.md
     - Troubleshooting: guides/troubleshooting.md
